@@ -1,1 +1,7 @@
-# flutter
+# Flutter
+
+...
+
+## LICENSE
+
+[MIT](./LICENSE)
